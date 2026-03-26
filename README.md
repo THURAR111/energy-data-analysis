@@ -21,19 +21,5 @@ Este projeto realiza a análise de dados energéticos relacionados ao preço e v
 - Análise de tendências ao longo do tempo  
 - Exploração da relação entre preço e volume  
 
-## 📊 Visualizações
-
-### Volume por Bacia
-![Volume por bacia](images/volume_por_bacia.png)
-
-### Preço Médio por Bacia
-![Preço por bacia](images/preco_por_bacia.png)
-
-### Volume ao longo do tempo
-![Volume no tempo](images/volume_tempo.png)
-
-### Preço ao longo do tempo
-![Preço no tempo](images/preco_tempo.png)
-
 ## 👤 Autor
 Arthur Pereira
